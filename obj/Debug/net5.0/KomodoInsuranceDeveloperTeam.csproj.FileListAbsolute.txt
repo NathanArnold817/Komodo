@@ -1,0 +1,16 @@
+C:\Users\NATEA\OneDrive\Desktop\ClassWork\00TypesandVariables\KomodoInsuranceDelvoperTeam\obj\Debug\net5.0\KomodoInsuranceDeveloperTeam.csproj.AssemblyReference.cache
+C:\Users\NATEA\OneDrive\Desktop\ClassWork\00TypesandVariables\KomodoInsuranceDelvoperTeam\obj\Debug\net5.0\KomodoInsuranceDeveloperTeam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NATEA\OneDrive\Desktop\ClassWork\00TypesandVariables\KomodoInsuranceDelvoperTeam\obj\Debug\net5.0\KomodoInsuranceDeveloperTeam.AssemblyInfoInputs.cache
+C:\Users\NATEA\OneDrive\Desktop\ClassWork\00TypesandVariables\KomodoInsuranceDelvoperTeam\obj\Debug\net5.0\KomodoInsuranceDeveloperTeam.AssemblyInfo.cs
+C:\Users\NATEA\OneDrive\Desktop\ClassWork\00TypesandVariables\KomodoInsuranceDelvoperTeam\obj\Debug\net5.0\KomodoInsuranceDeveloperTeam.csproj.CoreCompileInputs.cache
+C:\Users\NATEA\OneDrive\Desktop\ClassWork\00TypesandVariables\KomodoInsuranceDelvoperTeam\bin\Debug\net5.0\KomodoInsuranceDeveloperTeam.exe
+C:\Users\NATEA\OneDrive\Desktop\ClassWork\00TypesandVariables\KomodoInsuranceDelvoperTeam\bin\Debug\net5.0\KomodoInsuranceDeveloperTeam.deps.json
+C:\Users\NATEA\OneDrive\Desktop\ClassWork\00TypesandVariables\KomodoInsuranceDelvoperTeam\bin\Debug\net5.0\KomodoInsuranceDeveloperTeam.runtimeconfig.json
+C:\Users\NATEA\OneDrive\Desktop\ClassWork\00TypesandVariables\KomodoInsuranceDelvoperTeam\bin\Debug\net5.0\KomodoInsuranceDeveloperTeam.runtimeconfig.dev.json
+C:\Users\NATEA\OneDrive\Desktop\ClassWork\00TypesandVariables\KomodoInsuranceDelvoperTeam\bin\Debug\net5.0\KomodoInsuranceDeveloperTeam.dll
+C:\Users\NATEA\OneDrive\Desktop\ClassWork\00TypesandVariables\KomodoInsuranceDelvoperTeam\bin\Debug\net5.0\ref\KomodoInsuranceDeveloperTeam.dll
+C:\Users\NATEA\OneDrive\Desktop\ClassWork\00TypesandVariables\KomodoInsuranceDelvoperTeam\bin\Debug\net5.0\KomodoInsuranceDeveloperTeam.pdb
+C:\Users\NATEA\OneDrive\Desktop\ClassWork\00TypesandVariables\KomodoInsuranceDelvoperTeam\obj\Debug\net5.0\KomodoInsuranceDeveloperTeam.dll
+C:\Users\NATEA\OneDrive\Desktop\ClassWork\00TypesandVariables\KomodoInsuranceDelvoperTeam\obj\Debug\net5.0\ref\KomodoInsuranceDeveloperTeam.dll
+C:\Users\NATEA\OneDrive\Desktop\ClassWork\00TypesandVariables\KomodoInsuranceDelvoperTeam\obj\Debug\net5.0\KomodoInsuranceDeveloperTeam.pdb
+C:\Users\NATEA\OneDrive\Desktop\ClassWork\00TypesandVariables\KomodoInsuranceDelvoperTeam\obj\Debug\net5.0\KomodoInsuranceDeveloperTeam.genruntimeconfig.cache
